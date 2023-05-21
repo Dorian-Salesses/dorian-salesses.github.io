@@ -1,0 +1,2 @@
+On utilise Azure DevOps vous gérer les taches et archiver le code au final du projet
+MAiguesparses@cantal.fr
